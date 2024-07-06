@@ -48,7 +48,7 @@ IHS_SECRET_KEY=...
 ORIGIN=http://alamat-server:port
 ```
 
-Ganti dan sesuaikan `...` dengan client secret dan secret key dari platform SatuSehat. Juga atur nilai `ORIGIN` sesuai dengan alamat dan port di mana server dijalankan.
+Ganti dan sesuaikan `...` dengan client secret dan secret key **Production** (KYC tidak ada mode Sanbox) dari platform SatuSehat. Juga atur nilai `ORIGIN` sesuai dengan alamat dan port di mana server dijalankan.
 
 Lalu untuk menjalankan server, ketik perintah berikut:
 
